@@ -1,0 +1,17 @@
+{
+  "name": "allofw-three",
+  "version": "0.0.7",
+  "description": "Three.js ported onto Allofw platform",
+  "main": "allofw-three/index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "allofw": "0.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.0",
+    "typescript": "^2.1.6"
+  },
+  "author": "Donghao Ren <donghao.ren+npm@gmail.com> (https://donghaoren.org/)",
+  "license": "MIT"
+}
